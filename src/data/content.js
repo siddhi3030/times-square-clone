@@ -50,5 +50,5 @@ export const explore = [
 export const footer = [
   { h: 'Visit', l: ['Plan Your Visit', 'Getting Here', 'Accessibility', 'Visitor Centers', 'FAQs'] },
   { h: 'Explore', l: ['Things To Do', 'Eat & Drink', 'Shop', 'Arts & Culture', 'Hotels'] },
-  { h: 'About', l: ['Times Square Alliance', 'Press', 'Careers', 'Contact Us', 'Partner With Us'] },
+  { h: 'About', l: ['Times Square Alliance', 'Press', 'Careers', 'Contact Us', 'Partner With Us', 'Newsletter'] },
 ];
