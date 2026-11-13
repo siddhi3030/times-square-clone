@@ -11,7 +11,7 @@ export const nav = [
 export const hero = {
   kicker: 'Featured',
   title: 'The Crossroads of the World',
-  text: 'Bright lights, big dreams and 365 days of unforgettable moments. Start planning your Times Square adventure.',
+  text: 'Bright lights, big dreams and 365 days of unforgettable moments. Plan your perfect day at the Crossroads of the World.',
   cta: 'Plan Your Visit',
 };
 
